@@ -1,0 +1,10 @@
+level_1:
+  global_frame: odom
+  maps_package: multimap_server
+  maps:
+    localization: maps/floor_1/floor_1.yaml
+level_2:
+  global_frame: odom
+  maps_package: multimap_server
+  maps:
+    localization: maps/floor_2/floor_2.yaml
